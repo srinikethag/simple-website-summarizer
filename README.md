@@ -11,5 +11,4 @@ GPT_MODEL=gpt-4o-mini
 
 URL=https://cnn.com
 
-# openai, llama
 USE_MODEL=llama
